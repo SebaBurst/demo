@@ -17,8 +17,8 @@ public class Proyect {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    public static void hols()
-    {
+    public static void hola(){
+        System.out.println("Hola Mundo de Super Prueba");
     }
     
 }
