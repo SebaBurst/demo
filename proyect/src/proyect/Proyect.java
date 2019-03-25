@@ -21,4 +21,9 @@ public class Proyect {
         System.out.println("Hola Mundo de Super Prueba");
     }
     
+    public static void nuevoMetodo(){
+    
+    
+    }
+    
 }
